@@ -1,0 +1,43 @@
+.not-found-theme-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.not-found-dark-theme-container {
+  background-color: #000000;
+}
+
+.not-found-img {
+  height: 300px;
+  width: 300px;
+}
+
+.not-found-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.not-found-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.dark {
+  color: #ffffff;
+}
+
+.dark-para {
+  color: #ffffff;
+}
+
+.light {
+  color: #334155;
+}
+
+.light-para {
+  color: #64748b;
+}
